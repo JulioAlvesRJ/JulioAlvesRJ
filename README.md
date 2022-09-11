@@ -19,6 +19,9 @@ I Love code and create new stuff, i like too much to discover new technologies a
 ### Mobile Frameworks: <img src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 
+### Os: <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
 ## What I don't know, give me a few days 😁
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=JulioAlvesRJ&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/JulioAlvesRJ)
