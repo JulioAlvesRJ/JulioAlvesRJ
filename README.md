@@ -1,5 +1,5 @@
 
-# Hi, I'm Julio!
+# Hi, I'm Julio! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulioAlvesRJ)](https://github.com/JulioAlvesRJ)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/)](https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/)
