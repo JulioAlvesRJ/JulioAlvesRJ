@@ -1,29 +1,51 @@
+<h1 align='center'>
+  Olá, sou o Júlio Alves!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
 
-# Hi, I'm Julio! 👋
+<p align='center'>
+  Desenvolvedor Front-End e Mobile
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulioAlvesRJ)](https://github.com/JulioAlvesRJ)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/)](https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/)
+### 🌻 Sobre mim:
 
-## About me:
+<p>
+  <em>
+    Tenho 24 anos, sou do Rio de Janeiro e atualmente estou em busca do meu primeiro emprego como Dsenvolvedor Front-End
+  </em>
+</p>
 
-I'm a Mobile and front-end Developer :smile:
+- 🌱 Atualmente estou aprendendo React, React Native e Dart.
+- 🚀 Estudante da Rocketseat e DevMedia
+- 📫 Meu email: julioalvesdev.rj@gmail.com
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+### 📊 Metas 2022:
 
-## My specialties:
+- 📂 Expandir meu portfólio
 
-### Languages: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+- 📈 Conseguir emprego como desenvolvedor front-end
 
-### Frameworks & Library: <img src ="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+### ⚡ Tecnologias:
 
-### Mobile Frameworks: <img src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,firebase,
+)](https://skillicons.dev)
 
-### Os: <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+### 📈 Minhas Estatísticas
 
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=JulioAlvesRJ&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAlvesRJ&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-## What I don't know, give me a few days 😁
+💬 Quer me conhecer?
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=JulioAlvesRJ&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/JulioAlvesRJ)
+<div>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julioalvesdev.rj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/julioalvesrj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<p>🧠 <spam style="font-style:italic">"Seja você mesmo, todos os outros já existem."</spam></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAlvesRJ&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/JulioAlvesRJ)
