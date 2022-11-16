@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End e Mobile
+  Desenvolvedor Front-End
 </p>
 
 ### 🌻 Sobre mim:
