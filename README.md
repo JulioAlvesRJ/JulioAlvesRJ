@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 24 anos, sou do Rio de Janeiro e atualmente estou em busca do meu primeiro emprego como Desenvolvedor Front-End
+    Tenho 25 anos, sou do Rio de Janeiro e atualmente estou em busca do meu primeiro emprego como Desenvolvedor Front-End
   </em>
 </p>
 
