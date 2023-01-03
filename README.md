@@ -16,11 +16,11 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo React, React Native e Dart.
+- 🌱 Atualmente estou estudando sobre ReactJS
 - 🚀 Estudante da Rocketseat e DevMedia
 - 📫 Meu email: julioalvesdev.rj@gmail.com
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Expandir meu portfólio
 
@@ -30,7 +30,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,firebase,
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,reactjs,nodejs,
 )](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
