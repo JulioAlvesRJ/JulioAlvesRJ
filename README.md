@@ -21,7 +21,7 @@ de atuar como desenvolvedor front-end web. Atualmente estou estudando React.
 
 - 🌱 Atualmente estou estudando sobre React
 - 🚀 Estudante da Rocketseat e DevMedia
-- 📫 Meu email: julioalvesdev.rj@gmail.com
+- 📫 Meu email: julioalves.rj@outlook.com
 
 ### 📊 Metas 2023:
 
