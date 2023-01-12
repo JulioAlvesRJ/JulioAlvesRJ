@@ -12,11 +12,14 @@
 
 <p>
   <em>
-    Tenho 25 anos, sou do Rio de Janeiro e atualmente estou em busca do meu primeiro emprego como Desenvolvedor Front-End
+   Sou um desenvolvedor apaixonado pelo que eu faço.
+Estou sempre disposto a aprender algo novo que me ajude a ser um
+desenvolvedor cada vez melhor. Estou em busca de minha primeira oportunidade
+de atuar como desenvolvedor front-end web. Atualmente estou estudando React.
   </em>
 </p>
 
-- 🌱 Atualmente estou estudando sobre ReactJS
+- 🌱 Atualmente estou estudando sobre React
 - 🚀 Estudante da Rocketseat e DevMedia
 - 📫 Meu email: julioalvesdev.rj@gmail.com
 
@@ -24,7 +27,7 @@
 
 - 📂 Expandir meu portfólio
 
-- 📈 Conseguir emprego como desenvolvedor front-end
+- 📈 Conquistar minha primeira vaga como desenvolvedor front-end
 
 ### ⚡ Tecnologias:
 
