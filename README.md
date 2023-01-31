@@ -10,6 +10,23 @@
 
 ### 🌻 Sobre mim:
 
+```JavaScript
+const Me = new Developer('Júlio Akves', '25 years-old',
+{
+  Linkedin: 'https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/',
+  E-mail: 'julioalves.rj@outlook.com',
+  })
+
+Me.level = 'Junior'
+
+Me.languages = ['HTML', 'CSS', 'JavaScript']
+
+Me.tools = ['React', 'Node.js'...]
+
+Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resiliência',
+    'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança']
+```
+
 <p>
   <em>
    Sou um desenvolvedor apaixonado pelo que eu faço.
