@@ -11,7 +11,7 @@
 ### 🌻 Sobre mim:
 
 ```JavaScript
-const Me = new Developer('Júlio Akves', '25 years-old',
+const Me = new Developer('Júlio Alves', '25 years-old',
 {
   Linkedin: 'https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/',
   E-mail: 'julioalves.rj@outlook.com',
