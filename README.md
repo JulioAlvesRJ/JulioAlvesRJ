@@ -5,13 +5,13 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End
+  Desenvolvedor Full Stack
 </p>
 
 ### 🌻 Sobre mim:
 
 ```JavaScript
-const Me = new Developer('Júlio Alves', '25 years-old',
+const Me = new Developer('Júlio Alves', '26 years-old',
 {
   Linkedin: 'https://www.linkedin.com/in/j%C3%BAlio-cesar-548643209/',
   E-mail: 'julioalves.rj@outlook.com',
@@ -19,9 +19,9 @@ const Me = new Developer('Júlio Alves', '25 years-old',
 
 Me.level = 'Junior'
 
-Me.languages = ['HTML', 'CSS', 'JavaScript']
+Me.languages = ['HTML', 'CSS', 'JavaScript', 'Java'...]
 
-Me.tools = ['React', 'Node.js'...]
+Me.tools = ['React', 'Node.js', 'MySQL'...]
 
 Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resiliência',
     'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança']
@@ -32,19 +32,19 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
    Sou um desenvolvedor apaixonado pelo que eu faço.
 Estou sempre disposto a aprender algo novo que me ajude a ser um
 desenvolvedor cada vez melhor. Estou em busca de minha primeira oportunidade
-de atuar como desenvolvedor front-end web. Atualmente estou estudando React.
+de atuar como desenvolvedor. Atualmente estou estudando Java
   </em>
 </p>
 
-- 🌱 Atualmente estou estudando sobre React
+- 🌱 Atualmente estou estudando Java
 - 🚀 Estudante de Analise e Desenvovimento de Sistemas
 - 📫 Meu email: julioalves.rj@outlook.com
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
 - 📂 Expandir meu portfólio
 
-- 📈 Conquistar minha primeira vaga como desenvolvedor front-end
+- 📈 Conquistar minha primeira vaga como desenvolvedor
 
 ### ⚡ Tecnologias:
 
